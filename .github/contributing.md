@@ -75,7 +75,7 @@ Milligram use [Sass](http://sass-lang.com/) to give super powers to CSS. Look at
 
     &.increasing-the-specificity
       color: #000
-```
+```   
 
 _Note: This style guide was inspired by [Idiomatic.css](https://github.com/necolas/idiomatic-css)._
 
